@@ -1,1 +1,2 @@
 Otro contenido del segundo archivo
+Contenido extra
