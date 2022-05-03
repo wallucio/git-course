@@ -1,8 +1,8 @@
-Contenido del menÃº.
+Contenido del menú.
 
-Se agrega mÃ¡s contenido.
+Se agrega más contenido.
 
-Complemento de menÃº.
+Complemento de menú.
 Contenido desde la rama "dev".
 
 Contenido desde "main", para rebase.
