@@ -1,6 +1,6 @@
 Se agrega login.
 
-Más contenido.
+Más contenido. Contenido desde la rama "conflicto"
 
 Contenido desde la rama "func".
 
