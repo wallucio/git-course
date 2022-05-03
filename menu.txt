@@ -8,3 +8,5 @@ Contenido desde la rama "dev".
 Contenido desde "main", para rebase.
 Abortar desde dev. Cuarto cambio. Remoto
 otro cambio.
+
+Un cambio en el proceso de stash
