@@ -2,4 +2,6 @@ Se agrega login.
 
 Más contenido.
 
-Contenido desde la rama "func"
+Contenido desde la rama "func".
+
+Modificación antes del conflicto rebase.
