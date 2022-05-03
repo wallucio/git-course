@@ -1,10 +1,10 @@
-Contenido del menú.
+Contenido del menÃº.
 
-Se agrega más contenido.
+Se agrega mÃ¡s contenido.
 
-Complemento de menú.
+Complemento de menÃº.
 Contenido desde la rama "dev".
 
 Contenido desde "main", para rebase.
-Abortar desde dev. Cuarto cambio.
+Abortar desde dev. Cuarto cambio. Remoto
 otro cambio.
