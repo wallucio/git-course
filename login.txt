@@ -5,3 +5,5 @@ Más contenido.
 Contenido desde la rama "func".
 
 Modificación antes del conflicto rebase.
+
+Otra modificación.
