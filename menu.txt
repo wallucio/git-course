@@ -5,4 +5,5 @@ Se agrega más contenido.
 Complemento de menú.
 Contenido desde la rama "dev".
 
-Contenido desde "main", para rebase
+Contenido desde "main", para rebase.
+Abortar desde main.
