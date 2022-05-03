@@ -7,3 +7,5 @@ Contenido desde la rama "func".
 Modificación antes del conflicto rebase.
 
 Otra modificación.
+
+Cambio para stash
