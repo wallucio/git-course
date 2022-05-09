@@ -8,4 +8,6 @@ Modificación antes del conflicto rebase.
 
 Otra modificación.
 
-Cambio para stash
+Cambio para stash.
+
+Cambio para mostrar stash con archivos no rastreados.
