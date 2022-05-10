@@ -11,3 +11,5 @@ Otra modificación.
 Cambio para stash.
 
 Cambio para mostrar stash con archivos no rastreados.
+
+Stach en branch.

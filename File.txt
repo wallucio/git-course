@@ -1,3 +1,5 @@
 Mi contenido de archivo.
 
 Nuevo párrafo.
+
+Stash en branch

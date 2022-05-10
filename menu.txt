@@ -9,4 +9,8 @@ Contenido desde "main", para rebase.
 Abortar desde dev. Cuarto cambio. Remoto
 otro cambio.
 
-Un cambio en el proceso de stash
+Un cambio en el proceso de stash.
+
+Lista de stash.
+
+Stash en branch
